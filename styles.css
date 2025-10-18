@@ -1,4 +1,7 @@
-body {
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
     background-color: #effaf6;
     font-family: Arial, Helvetica, sans-serif;
 }
