@@ -8,7 +8,6 @@
 
 h1 {
     text-align: center;
-    color: green;
     background-color: rgb(218, 231, 229);
     padding: 10px;
     margin: 20px 0px;
@@ -29,13 +28,10 @@ li {
     margin-bottom: 10px;
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     color: green;
 }
 
 .food-image {
     border: 2px solid black;
-}
-
-.home-button {
 }
