@@ -7,9 +7,12 @@ h1 {
     text-align: center;
     color: green;
     background-color: rgb(218, 231, 229);
-    padding: 5px;
 }
 
 h2, h3, h4, h5, h6 {
     color: green;
+}
+
+.food-image {
+    border: 2px solid black;
 }
