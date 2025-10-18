@@ -11,6 +11,22 @@ h1 {
     color: green;
     background-color: rgb(218, 231, 229);
     padding: 10px;
+    margin: 20px 0px;
+}
+
+h2, h3, h4, h5, h6,
+p,
+ol, ul,
+.food-image {
+    margin: 10px;
+}
+
+ol, ul {
+    padding-left: 40px;
+}
+
+li {
+    margin-bottom: 10px;
 }
 
 h2, h3, h4, h5, h6 {
